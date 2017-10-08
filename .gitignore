@@ -1,0 +1,6 @@
+*.pyc
+*~
+*.cache
+__pycache__
+marq
+db.sqlite3

@@ -1,0 +1,56 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      User-Agent: [python-requests/2.18.4]
+    method: GET
+    uri: https://api.themoviedb.org/3/tv/1396?api_key=6eaadb45fb17c92cefba09bbe2e95e6a
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA31VW3PaOhD+Kxq/nBdDfAEMvIUmJ6S5kJSGpOl0GNlebIEtuZKMgU7/+1k5Dk0C
+        PczAGO1qv+/bm39ZIY1WsRTFvKA6tYbWSbgTz8s0LCQbffVuu6squXIqeFjMJk/tZZFYthVJoBri
+        ebi1ht9/WSy2hr1ez/dti9McMMaM8QjIBcsyllCONwopFiyDPYa8nj4sZeB1YedGV8H0arb5NCjj
+        ieN/qzF+/7AtKJgSMcxlyeeambjfO127E6BpwaTSc8rkPEYiGNBznH7LcVvuAMES4BLUnprb3/M6
+        kzSndfBU5FDQxBymWhfDk5Oqqto0j9qRyE9UKip1EqLMFeNJK6Qxhq1j+YMePvE5CorLSDPBreGC
+        ZgpsK6M8KTGkQbbAqI4Bf6TAHzxE1tT6Ydw+Unf9ljNoeYZ6w3PUIJNRjcxBV0Ku3kgKOnvf05tP
+        tSJe5iHIuVjMm8She897e66AKsHxuGtbQrIEZUSi5FqaMloPU8Pu5Zxm81c1iFBr2RuOUxRrkGsG
+        1QcLYYpQTk5zkCzCh0hiIUlsykA0ZLBmClNIFJpBkaav8EZMXhKMf8Ited9ObTIF/d6HIUQWlj9L
+        kPi1yS1U5AY2LBI2+UhHp0CUFnJLxII80kyDJI8p03iNokGWSZIZ95QlKVFRKkRGohRyhrYtkqb4
+        R5IqFSZYzGjChUIKFdMp8hAFSBpmQLISY6DkCJ2prlFDwAxyExuRaxq17DYZA9Gl5MhNIIeMLcB4
+        1LmyG5HmlpGsIKvZ5aBTmhcpaJozjm6YAiFjBMMYCqJSAipQZIHmbPsPPmDxeMRoRhalNtYQFsI4
+        YTmQhG2U5SZyLaS+KiSWDVNSxsC1TT6DUkDuGF/lpghjoGsMXYugGdtBbL8RZZKz4qLiJgwphGJm
+        Vkx8prHQKZU0wswrw1sBGGSMhUo22nSKyWAkJDceRnZKFRIGTjIaYttgi6CZa8gLISmWpQKF0bhp
+        ljq+aSQh22bziKLMqGQam7wXtPte3+t0B83HmM3F/V5ytzD7LDa+XApvObqSkqWXN8ugFNNBs/v+
+        DD4OT15QzppV08zFhcQ2nzFK7vaOZvbN1Ho9p/vb3ntOBd9iOiNTDUW+7qfhddW4TuC/cR+bfhxJ
+        FidAzlG61JTxHCvT+Pt+0PHMItiPOZJ6vyIHLcdruYHZR81urecfE9OE6AbBQUpOeXJbPoRP04hV
+        1/zhSceT0fhnkW5uZZOSF8D5y6Kxho4h/bfd/AE42AN7B8Du6K6z+bYePF90nmfj1XUgosmOjcLp
+        t/FxYPcQGBXjcu0fArv+Htk/QE7i3dnjTa+7cm5k5U46d//e5x0WraLr2XFk7wDZdQyy5/4vcvcA
+        eRv798FjTwfry8f+19yJr7zZQ3o54dlfNNcd8h7ZbTnB0Sq/Qe4dIKfnk8mXaNDruZ++3BVn1HOC
+        yr0oz09vlseRO4fIXo3cPYL8p8H6B8jS3wXOuuQslaer5eX1/dXj+Mm58Da7yXHkbt3lmuoSm9w6
+        5zGYN5DeFvVU4dosdH2yFhrmFF9M9Wus33Zfx/51+GuHV4qDrvv7Pye2EnkOCQAA
+    headers:
+      Access-Control-Allow-Origin: ['*']
+      Access-Control-Expose-Headers: ['ETag, X-RateLimit-Limit, X-RateLimit-Remaining,
+          X-RateLimit-Reset, Retry-After']
+      Cache-Control: ['public, max-age=28800']
+      Connection: [keep-alive]
+      Content-Encoding: [gzip]
+      Content-Length: ['1188']
+      Content-Type: [application/json;charset=utf-8]
+      Date: ['Sun, 08 Oct 2017 17:49:36 GMT']
+      ETag: [W/"9311f4ca5e0cca95256cbc493dccace4"]
+      Server: [openresty]
+      Vary: [Accept-Encoding]
+      X-Memc: [HIT]
+      X-Memc-Age: ['17707']
+      X-Memc-Expires: ['11093']
+      X-Memc-Key: [c74db595fa187c90be00ec20cf9a07f6]
+      X-RateLimit-Limit: ['40']
+      X-RateLimit-Remaining: ['39']
+      X-RateLimit-Reset: ['1507484986']
+    status: {code: 200, message: OK}
+version: 1

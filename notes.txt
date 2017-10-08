@@ -1,0 +1,3 @@
+cd documents/websites/marqeta && marq\Scripts\activate.bat
+pip freeze > requirements.txt
+pip install -r requirements.txt
